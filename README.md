@@ -1,2 +1,2 @@
 # Python-Cheat-Sheet
-Quick guide and tipps for Python programming
+Quick guide and tipps for Python programming.
