@@ -83,9 +83,9 @@ escape_sequence = "machine \n learning"  # start a new line after \n
 
 
 # formatted string
-# using f”{} {} {} …” to concatenate strings between {}
+# using f”{} {} {} …” to concatenate string variables in{}
 last_name = "World"
 first_name = "Hello"
 
-full_name = f"{first_name}{'_'}{last_name}"
+full_name = f"{first_name}_{last_name}"
 print(full_name)
